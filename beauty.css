@@ -1,0 +1,23 @@
+body{border: 45cm;
+font-style: oblique;
+font-size: larger;;
+background: url(Screenshot\ \(3\).png);
+background-color: chartreuse;
+font-feature-settings: "blwf";
+}
+h9{
+    color: rgb(247, 255, 6);
+    padding-top: 10px;
+    text-align: center;
+    font-size: 60px;
+}
+input:focus-within{
+    
+    background-color: rgb(191, 251, 25);
+    outline: navy;
+    border-color: aqua;
+    border-width: 3px;
+}
+button{
+    background-color: gold;
+}
